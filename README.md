@@ -6,5 +6,4 @@
 - 🏭 **Experience:** Currently at **BD Medical** in high-precision technical operations.
 - 💻 **Tech Interests:** Software Quality Assurance, Python, and Web Development.
 - 📍 **Location:** Greater Salt Lake City Area (Silicon Slopes).
-- 🚀 **Goal:** Transitioning my strong background in quality control and logic into a full-time Tech Support or Junior QA role.
-
+- 🚀 **Goal:** Building a strong foundation in network security and threat detection to secure a role as a Cybersecurity Specialist.
